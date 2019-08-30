@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>Certificados</title>
+</head>
+
+<body>
+<img style="-webkit-user-select: none;cursor: zoom-in;" src="http://appsmigracioncolombia.com/certificadosVEN/verificacionjsfnp957866728121998/CabezoteFormularioUltimo2.PNG" width="972px" height="150">
+    
+</td>
+					</tr>
+                    						    <table width="100%" cellpadding="9" cellspacing="0" border="0" class="mainTableExterna2"><p style="font-size:0px"><td>
+                    
+                    
+					<tr>
+						<td style="vertical-align: top;" class="contentPanelFondo"><div class="rich-panel panel" id="j_id10"><div class="rich-panel-body " id="j_id10_body">
+						  <center><span class="etiquetaTitulo"><b>Verificaci&oacute;n Permiso Especial de Permanencia</b></p></span></center><br><p style="font-size: 0px"></br>
+						  <center>
+						    <table cellspacing="8" style="margin-bottom : 2px" width="97.79%">
+		
+ <tbody>
+  <tr>
+  <td><span class="etiqueta">No.</span></td>			
+  <td><span class="textoOut">789566721011992</span></td>
+  <td><span class="etiqueta">Apellido(s)</span></td>
+  <td><span class="textoOut">RIERA MELENDEZ</span></td>
+  </tr>
+  <tr>
+  <td><span class="etiqueta"><p>Nombre</span></td>
+  <td><span class="textoOut">GLAIMARY DANNIELA</span></td>
+  <td><span class="etiqueta">C&eacute;dula de Identidad</span></td>
+  <td><span class="textoOut">20896777</p></span></td>
+  </tr>
+  <tr>
+  <td><span class="etiqueta"><p>Sexo</span></td>
+  <td><span class="textoOut">FEMENINO</span></td>
+  <td><span class="etiqueta">Nacionalidad</span></td>
+  <td><span class="textoOut">VENEZUELA</p></span></td>
+  </tr>
+  <tr>
+  <td><span class="etiqueta"><p>Fecha de Nacimiento</span></td>
+  <td><span class="textoOut">21/01/1992</span></td>
+  <td><span class="etiqueta">Fecha de expedici&oacute;n</span></td>
+  <td><span class="textoOut">02/12/2018</p></span></td>
+  </tr>
+  <tr>
+  <td><span class="etiqueta">Estado del Documento</span></td>
+  <td><span class="textoOut">VIGENTE</span></td>
+  </tr>
+  </tbody>
+  </table>
+						    
+				        </center></div></div>						</td>
+					</tr>
+                    
+                    
+					<tr>
+						<table width="100%" cellpadding="0" cellspacing="0" border="0" class="mainTableExterna"><td class="headerExterna" height="126"><table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td height="124">
+			<img style="-webkit-user-select: none;cursor: zoom-in;" src="http://apps.migracioncolombia.gov.co/certificadosVEN/imagenes/pieDePagina/banner_final_preregistro.jpg" width="972px" height="150">
+</tr>
+</tbody>
+</table>
+
+						</td>
+					</tr>
+				</table>
+		  </div>
+		</center>
+
+</body>
+</html>
